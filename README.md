@@ -1,21 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>How Live Football Scoring Websites Collect Match Data</title>
-  <style>
-    :root{--max-width:900px;--accent:#0b5ed7}
-    body{font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;line-height:1.65;color:#111;margin:0;padding:24px;background:#f7f8fb}
-    .container{max-width:var(--max-width);margin:24px auto;background:#fff;padding:28px;border-radius:12px;box-shadow:0 6px 20px rgba(12,18,36,0.06)}
-    header h1{font-size:28px;margin:0 0 6px}
-    header p{color:#555;margin:0 0 20px}
-    article h2{font-size:20px;margin-top:20px}
-    article p{margin:12px 0;color:#222}
-    .keyword{font-weight:600;color:var(--accent)}
-    footer{margin-top:28px;color:#666;font-size:14px}
-    @media (max-width:600px){body{padding:16px}.container{padding:18px}}
-  </style>
 </head>
 <body>
   <div class="container">
